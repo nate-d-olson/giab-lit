@@ -14,7 +14,7 @@ https://doi.org/10.1101/193144
 https://www.nature.com/articles/s41592-018-0001-7  
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1479-3  
 http://dx.doi.org/10.1038/nature13907  
- 
+SVCollector - https://doi.org/10.1101/342386  
  
 __Small variant calling using long/linked reads:__    
 https://doi.org/10.1101/293944  
