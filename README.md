@@ -20,6 +20,9 @@ __Small variant calling using long/linked reads:__
 https://doi.org/10.1101/293944  
 https://doi.org/10.1101/310458  
 https://doi.org/10.1101/230946  
+
+__Variant Callers__
+Sention - https://doi.org/10.1101/115717
  
 __Venter genome:__   
 https://doi.org/10.1101/281709
